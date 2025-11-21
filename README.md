@@ -1,20 +1,16 @@
 # 📔**Interstate Traffic**
-Tool : Google Collab, Tableau, Ms.Excel <br>
+Tool : Google Collab, Looker, Ms.Excel, SmartDraw <br>
 Programming Language : Python <br>
 Libraries : <br>
-Visualization : <br>
+Visualization : Looker & Notebook<br>
 Source Dataset : Kaggle <br>
 
 # 📂 Stage 0: Business Understanding
-## Background Project :
-Karena .
-
-## Objective :
-1. Mengidentifikasi .
-2. Memprediksi .
+## Tugas :
+Analisis Prediktif Volume Lalu Lintas
 
 ## Goals :
-maneuhejrk
+Mengidentifikasi dan memodelkan faktor-faktor kondisi cuaca yang secara signifikan memengaruhi traffic_volume, sehingga memungkinkan pembuatan model prakiraan yang akurat untuk manajemen lalu lintas dan perencanaan infrastruktur.
 <br>
 
 # 📂 Stage 1: Exploratory Data Analysis
