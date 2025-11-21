@@ -6,6 +6,12 @@ Visualization : Looker & Notebook<br>
 Source Dataset : Kaggle <br>
 
 # 📂 Stage 0: Business Understanding
+## Entity Relationship Diagram :
+<p align="center">
+    <kbd> <img width="1000" alt="erd" src="erd interstate traffic.png"> </kbd> <br>
+    Gambar 1 — ERD Dashboard
+</p>
+
 ## Tugas :
 Analisis Prediktif Volume Lalu Lintas
 
